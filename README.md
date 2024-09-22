@@ -2,7 +2,7 @@
 
 > This is a certification project about some html and css elements learnt
 
-![screenshot](./app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 Additional description of the project and its features.
 
